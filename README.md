@@ -1,6 +1,3 @@
-# GOODSKOOB
-<fig> <img src="GoodSkoobLogo.png"> </fig>
-
 ## :newspaper: Introdução
 
 > Repositório para armazenar trabalhos e exercícios da disciplina TCC00348 - Estruturas de Dados e seus Algoritmos.
