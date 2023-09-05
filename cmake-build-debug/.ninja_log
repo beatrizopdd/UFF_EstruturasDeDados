@@ -1,0 +1,9 @@
+# ninja log v5
+11	559	7156563077335462	CMakeFiles/UFF_EstruturasDeDados.dir/ED_arquivos/copiar_ordenado.c.obj	ba992aff2f7e7e50
+26	544	7156563077113218	CMakeFiles/UFF_EstruturasDeDados.dir/resumoTLista.c.obj	6c078f08670d0554
+2	579	7156563077718434	CMakeFiles/UFF_EstruturasDeDados.dir/ED_arquivos/copiar_editado.c.obj	50da58e8beef612b
+579	720	7156563079659508	CMakeFiles/UFF_EstruturasDeDados.dir/ED_arquivos/imprimir.c.obj	a8f4862bb23c59b
+547	725	7156563079810574	CMakeFiles/UFF_EstruturasDeDados.dir/ED_arquivos/preencher.c.obj	1b32283192847769
+560	726	7156563079649545	CMakeFiles/UFF_EstruturasDeDados.dir/ED_arquivos/imprimir_invertido.c.obj	f5b6f4711cd93f4f
+64	529	7156563681576797	build.ninja	26c1b6481366f22
+5	186	7156563685200781	UFF_EstruturasDeDados.exe	9c642e7358351076
