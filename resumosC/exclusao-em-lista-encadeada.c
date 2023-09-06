@@ -9,7 +9,7 @@ typedef struct lista {
 
 TLista* exclui(TLista* li, int valor) {
 
-    TLista *anterior, *lixo = li;
+    TLista *anterior = NULL, *lixo = li;
 
     while (lixo != NULL && lixo->info != valor) {
         anterior = lixo;
@@ -17,7 +17,10 @@ TLista* exclui(TLista* li, int valor) {
     }
 
     if (lixo != NULL) {
-        anterior->prox = lixo->prox;
+        if (anterior == NULL)
+            li = lixo->prox;
+        else
+            anterior->prox = lixo->prox;
         free(lixo);
     }
 

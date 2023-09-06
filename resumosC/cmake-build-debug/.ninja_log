@@ -1,3 +1,10 @@
 # ninja log v5
 2	267	7157033435760310	CMakeFiles/resumosC.dir/alteracao-em-lista-encadeada.c.obj	da87c581411ce388
 272	596	7157033439051940	resumosC.exe	eb14e6237864553b
+19	458	7157087474012310	build.ninja	6e1f8d4de70ecff
+1	413	7157087480479361	CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj	26500fcd25798843
+414	1026	7157087484878203	resumosC.exe	7f3732cfa7c6bb1
+23	224	7157089286690870	CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj	26500fcd25798843
+225	393	7157089288355633	resumosC.exe	7f3732cfa7c6bb1
+28	843	7157093761682499	CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj	26500fcd25798843
+850	1218	7157093765388185	resumosC.exe	7f3732cfa7c6bb1

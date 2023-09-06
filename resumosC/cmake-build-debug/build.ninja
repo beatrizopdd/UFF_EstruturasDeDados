@@ -49,12 +49,6 @@ cmake_ninja_workdir = C$:/Users/Beatr/Workspace/UFF_EstruturasDeDados/resumosC/c
 
 build cmake_object_order_depends_target_resumosC: phony || CMakeFiles/resumosC.dir
 
-build CMakeFiles/resumosC.dir/alteracao-em-lista-encadeada.c.obj: C_COMPILER__resumosC_unscanned_Debug C$:/Users/Beatr/Workspace/UFF_EstruturasDeDados/resumosC/alteracao-em-lista-encadeada.c || cmake_object_order_depends_target_resumosC
-  DEP_FILE = CMakeFiles\resumosC.dir\alteracao-em-lista-encadeada.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\resumosC.dir
-  OBJECT_FILE_DIR = CMakeFiles\resumosC.dir
-
 build CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj: C_COMPILER__resumosC_unscanned_Debug C$:/Users/Beatr/Workspace/UFF_EstruturasDeDados/resumosC/exclusao-em-lista-encadeada.c || cmake_object_order_depends_target_resumosC
   DEP_FILE = CMakeFiles\resumosC.dir\exclusao-em-lista-encadeada.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
@@ -69,7 +63,7 @@ build CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj: C_COMPILER__res
 #############################################
 # Link the executable resumosC.exe
 
-build resumosC.exe: C_EXECUTABLE_LINKER__resumosC_Debug CMakeFiles/resumosC.dir/alteracao-em-lista-encadeada.c.obj CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj
+build resumosC.exe: C_EXECUTABLE_LINKER__resumosC_Debug CMakeFiles/resumosC.dir/exclusao-em-lista-encadeada.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\resumosC.dir
