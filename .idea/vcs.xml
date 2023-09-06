@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_classroom/alteracao-em-lista-encadeada-beatrizopdd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_classroom/exclusao-em-lista-encadeada-beatrizopdd" vcs="Git" />
   </component>
 </project>

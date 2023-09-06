@@ -1,3 +1,0 @@
-C:/Users/Beatr/Workspace/UFF_EstruturasDeDados/cmake-build-debug/CMakeFiles/UFF_EstruturasDeDados.dir
-C:/Users/Beatr/Workspace/UFF_EstruturasDeDados/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Beatr/Workspace/UFF_EstruturasDeDados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
