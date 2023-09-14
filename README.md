@@ -12,31 +12,31 @@
 ## :bookmark: Índice <br>
 
 ### Árvores Binárias <br>
-| DATA | TIPO | TÍTULO| 
+| DATA | TIPO | DESCRIÇÃO| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Árvores Binárias de Busca <br>
-| DATA | TIPO | TÍTULO| 
+| DATA | TIPO | DESCRIÇÃO| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### AVL <br>
-| DATA | TIPO | TÍTULO| 
+| DATA | TIPO | DESCRIÇÃO| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Grafos <br>
-| DATA | TIPO | TÍTULO| 
+| DATA | TIPO | DESCRIÇÃO| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Árvores B e B+ <br>
-| DATA | TIPO | TÍTULO| 
+| DATA | TIPO | DESCRIÇÃO| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Tabelas Hash <br>
-| DATA | TIPO | TÍTULO| 
+| DATA | TIPO | DESCRIÇÃO| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
