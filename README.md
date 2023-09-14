@@ -4,10 +4,10 @@
  
 ## :wrench: Ferramentas
 
-- [**C**](www.google.com) - Linguagem de programação utilizada;
-- [**CLion**](www.google.com) - IDE utilizada para editar e executar o programa;
+- **C** - Linguagem de programação utilizada;
+- [**CLion**](https://www.jetbrains.com/clion/download/#section=windows) - IDE utilizada para editar e executar o programa;
 - [**C Tutor**](hhttps://pythontutor.com/c.html#mode=edit) - Site para visualização da memória durante a execução do programa;
-- :open_file_folder: `github_classroom` - Pasta com os repositórios privados que foram submetidos; 
+- [:open_file_folder: `github_classroom`](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/github_classroom) - Pasta com os repositórios privados que foram submetidos; 
 
 ## :bookmark: Índice <br>
 
