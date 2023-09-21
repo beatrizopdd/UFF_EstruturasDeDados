@@ -11,32 +11,39 @@
 
 ## :bookmark: Índice <br>
 
-### Árvores Binárias <br>
-| DATA | TIPO | DESCRIÇÃO| 
-| :--: | :--: | :----:|
-| dd/mm/aaaa | Treino | Exercício |
+### Lista Encadeada <br>
+|    DATA    | TIPO |             NOME             | 
+|:----------:| :--: |:----------------------------:|
+| 06/09/2023 | Treino | Alteração em lista encadeada |
+| 06/09/2023 | Treino | Exclusão em lista encadeada  |
+
+### [Árvores Binárias](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/arvoreBinaria) <br>
+|    DATA    | TIPO |             NOME             | 
+|:----------:| :--: |:----------------------------:|
+| 20/09/2023 | Treino | Espelho de árvore binária |
 
 ### Árvores Binárias de Busca <br>
-| DATA | TIPO | DESCRIÇÃO| 
-| :--: | :--: | :----:|
-| dd/mm/aaaa | Treino | Exercício |
+|    DATA    |   TIPO    |                    NOME                    | 
+|:----------:|:---------:|:------------------------------------------:|
+| 20/09/2023 |  Treino   | Maior valor de uma árvore binária de busca |
+| 20/09/2023 | Avaliação |  Exclusão em uma árvore binária de busca   |
 
 ### AVL <br>
-| DATA | TIPO | DESCRIÇÃO| 
-| :--: | :--: | :----:|
+| DATA | TIPO |   NOME    | 
+| :--: | :--: |:---------:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Grafos <br>
-| DATA | TIPO | DESCRIÇÃO| 
+| DATA | TIPO | NOME| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Árvores B e B+ <br>
-| DATA | TIPO | DESCRIÇÃO| 
+| DATA | TIPO | NOME| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Tabelas Hash <br>
-| DATA | TIPO | DESCRIÇÃO| 
+| DATA | TIPO | NOME| 
 | :--: | :--: | :----:|
 | dd/mm/aaaa | Treino | Exercício |
