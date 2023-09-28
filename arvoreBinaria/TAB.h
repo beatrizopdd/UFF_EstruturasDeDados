@@ -19,10 +19,10 @@ TAB *criaNoh(char letra) {
 void imprimeArvore(TAB *raiz, int espacamento) {
 
     if (raiz != NULL) {
+        imprimeArvore(raiz->esq, espacamento+2);
         for (int i = 0; i < espacamento; i++)
             printf("-");
         printf("%c\n", raiz->info);
-        imprimeArvore(raiz->esq, espacamento+2);
         imprimeArvore(raiz->dir, espacamento+2);
     }
 }
