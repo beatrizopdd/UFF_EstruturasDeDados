@@ -17,7 +17,7 @@
 | 06/09/2023 | Treino | Alteração em lista encadeada |
 | 06/09/2023 | Treino | Exclusão em lista encadeada  |
 
-### [Árvores Binárias](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/arvoreBinaria) <br>
+### Árvores Binárias<br>
 |    DATA    | TIPO |             NOME             | 
 |:----------:| :--: |:----------------------------:|
 | 20/09/2023 | Treino | Espelho de árvore binária |
@@ -35,8 +35,8 @@
 
 ### Grafos <br>
 | DATA | TIPO | NOME| 
-| :--: | :--: | :----:|
-| dd/mm/aaaa | Treino | Exercício |
+|:---:| :--: | :----:|
+|29/09/2023 | Treino |Instagram|
 
 ### Árvores B e B+ <br>
 | DATA | TIPO | NOME| 
