@@ -34,9 +34,10 @@
 | dd/mm/aaaa | Treino | Exercício |
 
 ### Grafos <br>
-| DATA | TIPO | NOME| 
-|:---:| :--: | :----:|
-|29/09/2023 | Treino |Instagram|
+| DATA |   TIPO    |        NOME         | 
+|:---:|:---------:|:-------------------:|
+|29/09/2023 |  Treino   |      Instagram      |
+|29/09/2023 | Avaliação | Grafo não orientado |
 
 ### Árvores B e B+ <br>
 | DATA | TIPO | NOME| 
