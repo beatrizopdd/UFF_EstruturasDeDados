@@ -28,16 +28,17 @@
 | 20/09/2023 |  Treino   | Maior valor de uma árvore binária de busca |
 | 20/09/2023 | Avaliação |  Exclusão em uma árvore binária de busca   |
 
-### AVL <br>
-| DATA | TIPO |   NOME    | 
-| :--: | :--: |:---------:|
-| dd/mm/aaaa | Treino | Exercício |
-
 ### Grafos <br>
 | DATA |   TIPO    |        NOME         | 
 |:---:|:---------:|:-------------------:|
 |29/09/2023 |  Treino   |      Instagram      |
 |29/09/2023 | Avaliação | Grafo não orientado |
+
+### Arquivos <br>
+|    DATA    | TIPO |        NOME        | 
+|:----------:| :--: |:------------------:|
+| 06/10/2023 | Treino | Merge de arquivos  |
+| 06/10/2023 | Treino | Junção de arquivos |
 
 ### Árvores B e B+ <br>
 | DATA | TIPO | NOME| 
