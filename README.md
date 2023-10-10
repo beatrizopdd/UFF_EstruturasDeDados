@@ -35,10 +35,11 @@
 |29/09/2023 | Avaliação | Grafo não orientado |
 
 ### Arquivos <br>
-|    DATA    | TIPO |        NOME        | 
-|:----------:| :--: |:------------------:|
-| 06/10/2023 | Treino | Merge de arquivos  |
-| 06/10/2023 | Treino | Junção de arquivos |
+|    DATA    |   TIPO    |        NOME        | 
+|:----------:|:---------:|:------------------:|
+| 06/10/2023 |  Treino   | Merge de arquivos  |
+| 06/10/2023 |  Treino   | Junção de arquivos |
+| 16/10/2023 | Avaliação | Junção Externa Esquerda de Arquivos |
 
 ### Árvores B e B+ <br>
 | DATA | TIPO | NOME| 
