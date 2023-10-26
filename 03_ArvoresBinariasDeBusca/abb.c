@@ -6,6 +6,14 @@ typedef struct ab {
     struct ab *esq, *dir;
 } TABB;
 
+TABB *criaFolha(int info) {
+    TABB *nova = (TABB*) malloc(sizeof(TABB));
+    nova->info = info;
+    nova->esq = NULL;
+    nova->dir = NULL;
+    return nova;
+}
+
 void imprime(TABB *arvore, int tab) {
     if (arvore != NULL) {
         imprime(arvore->dir, tab + 3);
@@ -18,38 +26,20 @@ void imprime(TABB *arvore, int tab) {
     }
 }
 
-TABB *criaFolha(int info) {
-    TABB *nova = (TABB*) malloc(sizeof(TABB));
-    nova->info = info;
-    nova->esq = NULL;
-    nova->dir = NULL;
-    return nova;
-}
-
-/* E1 */
 TABB *maior(TABB *a) {
     TABB *aux = a;
-
     while (aux->dir != NULL)
         aux = aux->dir;
-
     return aux;
 }
 
-/* E2 */
 TABB *menor(TABB *a) {
     TABB *aux = a;
-
     while (aux->esq != NULL)
         aux = aux->esq;
-
     return aux;
 }
 
-/* E3 */
-TABB *retira_impares(TABB *a) {
-    if ()
-}
 
 int main() {
     TABB *arvore = criaFolha(10);
