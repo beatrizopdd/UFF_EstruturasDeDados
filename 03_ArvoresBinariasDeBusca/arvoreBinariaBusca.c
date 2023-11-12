@@ -1,12 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct AVL {
+typedef struct ab {
     int info;
-    struct AVL *esq, *dir;
-} TAVL;
+    struct ab *esq, *dir;
+} TABB;
 
-void imprimir(TAVL *arvore, int tab) {
+TABB *criaFolha(int info) {
+    TABB *nova = (TABB*) malloc(sizeof(TABB));
+    nova->info = info;
+    nova->esq = NULL;
+    nova->dir = NULL;
+    return nova;
+}
+
+void imprimir(TABB *arvore, int tab) {
     if (arvore != NULL) {
         imprimir(arvore->dir, tab + 3);
 
@@ -18,20 +26,11 @@ void imprimir(TAVL *arvore, int tab) {
     }
 }
 
-TAVL *criaNoh(int numero) {
-    TAVL *novoNoh;
-    novoNoh = (TAVL*)malloc(sizeof(TAVL));
-    novoNoh->info = numero;
-    novoNoh->esq = NULL;
-    novoNoh->dir = NULL;
-    return novoNoh;
-}
-
-TAVL *inserir(TAVL *a, int numero) {
+TABB *inserir(TABB *a, int numero) {
     if (a == NULL)
-        a = criaNoh(numero);
+        a = criaFolha(numero);
     else {
-        TAVL *ante, *aux = a;
+        TABB *ante, *aux = a;
         while (aux != NULL) {
             ante = aux;
             if (numero < aux->info)
@@ -40,9 +39,10 @@ TAVL *inserir(TAVL *a, int numero) {
                 aux = aux->dir;
         }
         if (numero < ante->info)
-            ante->esq = criaNoh(numero);
+            ante->esq = criaFolha(numero);
         else
-            ante->dir = criaNoh(numero);
+            ante->dir = criaFolha(numero);
     }
     return a;
 }
+

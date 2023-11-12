@@ -13,7 +13,6 @@ int main() {
     for (int i = 0; i < 5; i++)
         printf("%c ", vogais[i]);
 
-
     printf("\n");
     char *consoantes = (char*)malloc(sizeof(char) * 5);
     consoantes[0] = 'b';
