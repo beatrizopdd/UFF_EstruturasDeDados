@@ -90,9 +90,10 @@
 
 ## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/06_Arquivos) Arquivos
 
-| ARQUIVO |  PROTÓTIPO   |
-|:-------:|:------------:|
-|||
+|  ARQUIVO  |                   PROTÓTIPO                    |
+|:---------:|:----------------------------------------------:|
+| leitura.c |       void imprimeArquivo(FILE *arquivo)       |
+| escrita.c | void merge(FILE *arqA, FILE *arqB, FILE *arqC) |
 
 ## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/07_OrdenacaoArquivos) Ordenação de Arquivos
 
