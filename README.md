@@ -8,7 +8,7 @@
 - [**CLion**](https://www.jetbrains.com/clion/download/#section=windows) - IDE utilizada para editar e executar o programa;
 - [**C Tutor**](https://pythontutor.com/c.html#mode=edit) - Site para visualização da memória durante a execução do programa; 
 
-## [:file_folder:]() Github Classroom <br>
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/00_GithubClassroom) Github Classroom <br>
 
 |    DATA    |   TIPO    |          ASSUNTO          |                    NOME                    | 
 |:----------:|:---------:|:-------------------------:|:------------------------------------------:|
@@ -24,7 +24,7 @@
 | 16/10/2023 | Avaliação |         Arquivos          |    Junção Externa Esquerda de Arquivos     |
 | 24/10/2023 | Avaliação |   Ordenação de Arquivos   |              Seleção natural               |
 
-## [:file_folder:]() Revisão de C
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/01_RevisaoC) Revisão de C
 
 |     ARQUIVO      |                   PROTÓTIPO                   |
 |:----------------:|:---------------------------------------------:|
@@ -36,7 +36,7 @@
 |     struct.c     |                  int main()                   |
 |   funcTroca.c    |                  int main()                   |
 
-## [:file_folder:]() Árvores Binárias
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/02_ArvoresBinarias) Árvores Binárias
 
 |     ARQUIVO     |            PROTÓTIPO             |
 |:---------------:|:--------------------------------:|
@@ -59,7 +59,7 @@
 |    qtdNoh.c     |          int nf(TAB *a)          |
 |  retiraPares.c  |   TAB *retira_pares(TAB* arv)    |
 
-## [:file_folder:]() Árvores Binárias de Busca
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/03_ArvoresBinariasDeBusca) Árvores Binárias de Busca
 
 |     ARQUIVO      |           PROTÓTIPO           |
 |:----------------:|:-----------------------------:|
@@ -68,7 +68,7 @@
 | retira_impares.c |    TABB *remover(TABB *a)     |
 | retira_impares.c | TABB *retira_impares(TABB *a) |
 
-## [:file_folder:]() Árvores AVL
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/04_ArvoresAVL) Árvores AVL
 
 |         ARQUIVO         |           PROTÓTIPO           |
 |:-----------------------:|:-----------------------------:|
@@ -77,7 +77,7 @@
 | insercaoBalanceamento.c |   TAVL *rotacaoE(TAVL *noh)   |
 | insercaoBalanceamento.c | TAVL *balancear(TAVL *arvore) |
 
-## [:file_folder:]() Grafos
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/05_Grafos) Grafos
 
 |   ARQUIVO    |             PROTÓTIPO              |
 |:------------:|:----------------------------------:|
@@ -88,13 +88,13 @@
 | quantidade.c |         int nv(TGrafo *g)          |
 |   testeK.c   |    int testek(TGrafo *g, int k)    |
 
-## [:file_folder:]() Arquivos
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/06_Arquivos) Arquivos
 
 | ARQUIVO |  PROTÓTIPO   |
 |:-------:|:------------:|
 |||
 
-## [:file_folder:]() Ordenação de Arquivos
+## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/07_OrdenacaoArquivos) Ordenação de Arquivos
 
 | ARQUIVO |  PROTÓTIPO   |
 |:-------:|:------------:|
