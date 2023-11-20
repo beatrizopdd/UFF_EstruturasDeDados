@@ -10,19 +10,21 @@
 
 ## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/00_GithubClassroom) Github Classroom <br>
 
-|    DATA    |   TIPO    |          ASSUNTO          |                    NOME                    | 
-|:----------:|:---------:|:-------------------------:|:------------------------------------------:|
-| 06/09/2023 |  Treino   |       Revisão de C        |        Alteração em lista encadeada        |
-| 06/09/2023 |  Treino   |       Revisão de C        |        Exclusão em lista encadeada         |
-| 20/09/2023 |  Treino   |     Árvores Binárias      |         Espelho de árvore binária          |
-| 20/09/2023 |  Treino   | Árvores Binárias de Busca | Maior valor de uma árvore binária de busca |
-| 20/09/2023 | Avaliação | Árvores Binárias de Busca |  Exclusão em uma árvore binária de busca   |
-| 29/09/2023 |  Treino   |          Grafos           |                 Instagram                  |
-| 29/09/2023 | Avaliação |          Grafos           |            Grafo não orientado             |
-| 06/10/2023 |  Treino   |         Arquivos          |             Merge de arquivos              |
-| 06/10/2023 |  Treino   |         Arquivos          |             Junção de arquivos             |
-| 16/10/2023 | Avaliação |         Arquivos          |    Junção Externa Esquerda de Arquivos     |
-| 24/10/2023 | Avaliação |   Ordenação de Arquivos   |              Seleção natural               |
+|    DATA    |    TIPO     |          ASSUNTO          |                       NOME                       | 
+|:----------:|:-----------:|:-------------------------:|:------------------------------------------------:|
+| 06/09/2023 |   Treino    |       Revisão de C        |           Alteração em lista encadeada           |
+| 06/09/2023 |   Treino    |       Revisão de C        |           Exclusão em lista encadeada            |
+| 20/09/2023 |   Treino    |     Árvores Binárias      |            Espelho de árvore binária             |
+| 20/09/2023 |   Treino    | Árvores Binárias de Busca |    Maior valor de uma árvore binária de busca    |
+| 20/09/2023 | Avaliação 1 | Árvores Binárias de Busca |     Exclusão em uma árvore binária de busca      |
+| 29/09/2023 |   Treino    |          Grafos           |                    Instagram                     |
+| 29/09/2023 | Avaliação 2 |          Grafos           |               Grafo não orientado                |
+| 06/10/2023 |   Treino    |         Arquivos          |                Merge de arquivos                 |
+| 06/10/2023 |   Treino    |         Arquivos          |                Junção de arquivos                |
+| 16/10/2023 | Avaliação 3 |         Arquivos          |       Junção Externa Esquerda de Arquivos        |
+| 24/10/2023 | Avaliação 4 |   Ordenação de Arquivos   |                 Seleção natural                  |
+| 09/11/2023 |   Treino    |         Árvore B          | Maior Valor de uma Arvore B em Memória Principal |
+| 28/11/2023 | Avaliação 5 |         Árvore B+         |           Busca em Árvore B+ em Disco            |
 
 ## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/01_RevisaoC) Revisão de C
 
@@ -97,6 +99,9 @@
 
 ## [:file_folder:](https://github.com/beatrizopdd/UFF_EstruturasDeDados/tree/master/07_OrdenacaoArquivos) Ordenação de Arquivos
 
-| ARQUIVO |  PROTÓTIPO   |
-|:-------:|:------------:|
-|||
+|        ARQUIVO         |                   PROTÓTIPO                   |
+|:----------------------:|:---------------------------------------------:|
+| classificacaoInterna.c | void insertionSort(int M, Jogador **memoria)  |
+| classificacaoInterna.c |       void particiona(FILE *arq, int M)       |
+| selecaoSubstituicao.c  |       void particiona(FILE *arq, int M)       |
+|    selecaoNatural.c    |       void particiona(FILE *arq, int M)       |
